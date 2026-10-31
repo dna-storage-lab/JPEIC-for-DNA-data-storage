@@ -1,0 +1,2 @@
+Input_File,Start_Time,End_Time,Total_Time(s),Date
+./Assembled_fastq/assembled_test.fastq,22:39:26,23:08:52,1766,2026-01-27

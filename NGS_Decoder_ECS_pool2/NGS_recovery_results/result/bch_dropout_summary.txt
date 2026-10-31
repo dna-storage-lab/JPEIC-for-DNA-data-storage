@@ -1,0 +1,1 @@
+File:./NGS_recovery_results/result/bch_result/BCH_decoded_bits.txt	Dropout:7.7911%	PassRate:100.0000%	FailedCW:0
